@@ -79,7 +79,7 @@ Submit your solution on Moodle as one single ZIP file xxx.zip where xxx is your 
 * task4.zip containing your solution for Task 4. This can be a text file.
 
 
-###2. Marking Criteria- How will my assignment be marked?	
+### 2. Marking Criteria- How will my assignment be marked?	
 
 The marking rubric is provided with this brief in Section 1.1.
 We are looking for simple clean code that uses basic primitives seen in lectures.
